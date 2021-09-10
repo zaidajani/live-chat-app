@@ -28,4 +28,4 @@ $ npm run dev
 # to run the project, then head over to your browser and localhost:3000, to see your application in action
 ```
 
-## Enjoy your powerfull application
+## Enjoy your powerfull application.
